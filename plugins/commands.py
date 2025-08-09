@@ -22,19 +22,18 @@ START_TIME = time.time()
 # Ask Doubt on telegram @KingVJ01
 
 main_buttons = [[
-    InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/MR_ABHAY_K')
+    InlineKeyboardButton('👑 𝙳𝙴𝚅 • 𝙱𝚈 • 𝙰𝙱𝙷𝙰𝚈 🔥', url='https://t.me/MR_ABHAY_K')
 ],[
-    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/AK_BOTZ_SUPPORT'),
-    InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/AK_bOTZ_UPDATE')
+    InlineKeyboardButton('💬 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 • 𝙻𝙾𝚄𝙽𝙶𝙴 💠', url='https://t.me/AK_BOTZ_SUPPORT'),
+    InlineKeyboardButton('🚀 𝚄𝙿𝙳𝙰𝚃𝙴 • 𝙷𝚄𝙱 📡', url='https://t.me/AK_bOTZ_UPDATE')
 ],[
-    InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+    InlineKeyboardButton('🎬 𝙹𝙾𝙸𝙽 • 𝙼𝚈 • 𝙼𝙾𝚅𝙸𝙴 • 𝚆𝙾𝚁𝙻𝙳 🍿', url='https://t.me/YOUR_MOVIE_CHANNEL')
 ],[
-    InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help'),
-    InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about')
+    InlineKeyboardButton('🧠 𝙷𝙴𝙻𝙿 • 𝙲𝙴𝙽𝚃𝙴𝚁 💡', callback_data='help'),
+    InlineKeyboardButton('🧬 𝙰𝙱𝙾𝚄𝚃 • 𝙱𝙾𝚃 ⚡', callback_data='about')
 ],[
-    InlineKeyboardButton('⚙ sᴇᴛᴛɪɴɢs', callback_data='settings#main')
+    InlineKeyboardButton('⚙️ 𝙱𝙾𝚃 • 𝚂𝙴𝚃𝚃𝙸𝙽𝙶𝚂 🔧', callback_data='settings#main')
 ]]
-
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
