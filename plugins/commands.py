@@ -16,17 +16,17 @@ START_TIME = time.time()
 
 
 main_buttons = [[
-    InlineKeyboardButton('👑 Creater 👑', url='https://t.me/MR_ABHAY_K')
+    InlineKeyboardButton('👑  CREATER  👑', url='https://t.me/MR_ABHAY_K')
 ],[
-    InlineKeyboardButton('💬 Support 💪', url='https://t.me/AK_BOTZ_SUPPORT'),
-    InlineKeyboardButton('🤖 Updates 🚀', url='https://t.me/AK_bOTZ_UPDATE')
+    InlineKeyboardButton('💬  Support  💪', url='https://t.me/AK_BOTZ_SUPPORT'),
+    InlineKeyboardButton('🤖  Updates  🚀', url='https://t.me/AK_bOTZ_UPDATE')
 ],[
-    InlineKeyboardButton('🎬Join•Movie•Channel 🎥', url='https://t.me/MOVIE_MINES_UPDATE')
+    InlineKeyboardButton('🎬  Join•Movie•Channel  🎬', url='https://t.me/MOVIE_MINES_UPDATE')
 ],[
-    InlineKeyboardButton('🧠 Help 🤝', callback_data='help'),
-    InlineKeyboardButton('🧬 About 🧬', callback_data='about')
+    InlineKeyboardButton('🧠  Help  🤝', callback_data='help'),
+    InlineKeyboardButton('🧬  About  🧬', callback_data='about')
 ],[
-    InlineKeyboardButton('⚙️  Settings ⚙️', callback_data='settings#main')
+    InlineKeyboardButton('⚙️   Settings   ⚙️', callback_data='settings#main')
 ]]
 
 
