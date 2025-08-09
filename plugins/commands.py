@@ -25,7 +25,7 @@ main_buttons = [[
     InlineKeyboardButton('👑 Creater 👑', url='https://t.me/MR_ABHAY_K')
 ],[
     InlineKeyboardButton('💬 Support 💪', url='https://t.me/AK_BOTZ_SUPPORT'),
-    InlineKeyboardButton('🚀 Updates 🚀', url='https://t.me/AK_bOTZ_UPDATE')
+    InlineKeyboardButton('🤖 Updates 🚀', url='https://t.me/AK_bOTZ_UPDATE')
 ],[
     InlineKeyboardButton('🎬Join•Movie•Channel 🎥', url='https://t.me/MOVIE_MINES_UPDATE')
 ],[
