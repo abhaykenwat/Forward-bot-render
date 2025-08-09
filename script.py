@@ -38,12 +38,12 @@ class  Script(object):
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/VJForwardBot)
+║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/ak_botz_update)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [ABHAY G 👑](https://t.me/MR_ABHAY_K)
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : [AK Bᴏᴛᴢ](https://t.me/ak_botz_update)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
-║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
+║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ 2.11.0 
 ║┣⪼🗒️Vᴇʀsɪᴏɴ : 0.18.3
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁۪۪
@@ -81,7 +81,7 @@ class  Script(object):
 ║┣⪼<b>📊 Cᴜʀʀᴇɴᴛ Sᴛᴀᴛᴜs:</b> <code>{}</code>
 ║┣⪼<b>𖨠 Pᴇʀᴄᴇɴᴛᴀɢᴇ:</b> <code>{}</code> %
 ║┣⪼━━━━━━━━━━━━━━━━━━━
-║┣⪼<b>⚡ Pᴏᴡᴇʀᴇᴅ Bʏ :</b> <a href='https://t.me/AK_BOTZ_UPDATE'>⚡ ᴀᴋ ʙᴏᴛᴢ ᴜᴘᴅᴀᴛᴇ</a>
+║┣⪼<b>⚡Pᴏᴡᴇʀᴇᴅ Bʏ⚡:</b> <a href='https://t.me/AK_BOTZ_UPDATE'>⚡ᴀᴋ ʙᴏᴛᴢ ᴜᴘᴅᴀᴛᴇ⚡</a>
 ║╰━━━━━━━━━━━━━━━➣ 
 ╚════❰ {} ❱══❍⊱❁۪۪
 """
