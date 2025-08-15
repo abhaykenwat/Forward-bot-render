@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/D0qQ884r/FORWARD-BOT-PIC-17.png" alt="Forward Bot Banner" width="450"/>
+  <img src="https://i.postimg.cc/D0qQ884r/FORWARD-BOT-PIC-17.png" alt="Forward Bot Banner" width="550"/>
 </p>
 
 
